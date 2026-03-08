@@ -1,1 +1,2 @@
-data/
+# Ignore dataset directories
+/data/

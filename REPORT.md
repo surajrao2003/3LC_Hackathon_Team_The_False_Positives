@@ -99,7 +99,6 @@ Results:
 We continued targeted labeling to improve balance and coverage.
 
 Results:
-
 - **Train 13:** added more muffin labels -> **93.1%**
 - **Train 14:** added more chihuahua labels -> **93.6%**
 - **Train 15:** labeled both classes -> **93.3%**
