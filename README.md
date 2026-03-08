@@ -1,4 +1,5 @@
-# Chihuahua vs Muffin - Our Data-Centric Workflow
+# Chihuahua vs Muffin - Our Data-Centric Workflow 
+(Team Members - Suraj Rao, Keshav naram, Sampath Chavali, Dhathri Meda
 
 This repository documents our team workflow for improving classifier accuracy through **data work** in 3LC.What We Actually Changed
 
