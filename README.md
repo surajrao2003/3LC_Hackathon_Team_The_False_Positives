@@ -46,6 +46,7 @@ Outputs:
 
 - `best_model.pth`
 - `submission.csv`
+- Embedding screenshot file in workspace: `embedding_accuracy_train21.png`
 
 ## How We Reached Peak Accuracy
 
